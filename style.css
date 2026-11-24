@@ -1,0 +1,61 @@
+.lasagna{
+    background: -webkit-linear-gradient(#e9be94,#c86700,#f7d7a0,#9d6600,#ffd381);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.pizza{
+    background: -webkit-linear-gradient(	#dba24a,#e12301,	#e1d800,	#ce0000,	#fffa8a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+        text-align: center;
+}
+.burger{
+    background: -webkit-linear-gradient(	#e5cb7a,#32c704,#450101,	#ec3521,	#e5cb7a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+        text-align: center;
+}
+.food a{
+    font-size: 25px;
+
+}
+.first_title{
+    color:#E3B260;
+}
+.second_title{
+    color:#D4D4D4;
+
+}
+.title{
+    text-align: center;
+}
+.title_sub{
+    text-align:center;
+}
+.content{
+    width:50%;
+    margin:auto;
+}
+.food{
+    text-align: center;
+}
+.food_img{
+    display:block;
+    margin:auto;
+    border-style:groove;
+    border-color:black;
+    border-width:2px;
+}
+.footer{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+body{
+    font-family:helvetica, sans-serif;
+}
+footer{
+    border-top:black;
+    background-color:whitesmoke;
+}
